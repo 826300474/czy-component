@@ -10,7 +10,6 @@ import React, { CSSProperties, useState } from 'react';
 import { LabeledValue, SelectValue } from 'antd/es/select';
 import TagItem from './TagItem';
 
-//
 const getItemStyle = (
 	isDragging: boolean,
 	draggableStyle: DraggableProvidedDraggableProps['style'],

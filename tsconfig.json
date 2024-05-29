@@ -12,5 +12,8 @@
       "czy-component/*": ["src/*", "*"]
     }
   },
-  "include": [".dumirc.ts", "src/**/*"]
+  "include": [],
+  "exclude": [
+    "src/**/*"
+  ]
 }
