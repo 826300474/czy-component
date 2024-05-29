@@ -1,6 +1,6 @@
 {
   "name": "czy-component",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A react library developed with dumi",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,8 +15,7 @@
     "doctor": "father doctor",
     "lint": "npm run lint:es && npm run lint:css",
     "lint:css": "stylelint \"{src,test}/**/*.{css,less}\"",
-    "lint:es": "eslint \"{src,test}/**/*.{js,jsx,ts,tsx}\"",
-    "prepublishOnly": "father doctor && npm run build"
+    "lint:es": "eslint \"{src,test}/**/*.{js,jsx,ts,tsx}\""
   },
   "authors": [
     "826300474@qq.com"
