@@ -1,6 +1,6 @@
 {
   "name": "czy-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A react library developed with dumi",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -74,6 +74,7 @@
     "stylelint": "^14.9.1"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.7",
     "antd": "^5.17.4",
     "react-beautiful-dnd": "^13.1.1"
   },

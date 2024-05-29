@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base:'/czy-component/',
+  base: '/czy-component/',
   publicPath: '/czy-component/',
   outputPath: 'docs-dist',
   themeConfig: {
